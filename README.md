@@ -14,6 +14,7 @@ Compare the performance of multiple classification models.
 Improve prediction accuracy using Ensemble Learning.
 Provide model transparency through Explainable AI (SHAP).
 Develop an interactive GUI for real-time attrition prediction.
+
 🚀 Features
 Employee Attrition Prediction
 Ensemble Learning Model
@@ -23,6 +24,7 @@ Correlation Heatmap Visualization
 Confusion Matrix and ROC Curve Evaluation
 Interactive GUI for User Inputs
 Business Insights for HR Decision Making
+
 🛠 Technologies Used
 Programming Language
 Python
@@ -35,12 +37,14 @@ Seaborn
 SHAP
 Imbalanced-Learn (SMOTE)
 Tkinter
+
 📊 Machine Learning Models Used
 Logistic Regression
 Decision Tree
 Random Forest
 Gradient Boosting
 Ensemble Model (Random Forest + Gradient Boosting)
+
 📈 Model Performance
 Model	Accuracy
 Logistic Regression	0.769231
@@ -51,7 +55,8 @@ Ensemble Model	0.914980
 
 The Ensemble Model achieved the highest accuracy and was selected as the final prediction model.
 
-🔄 Project Workflow
+🔄 Project Workflow:
+
 Data Collection
 Data Preprocessing
 Label Encoding
@@ -64,6 +69,7 @@ Model Evaluation
 Explainable AI using SHAP
 GUI Development
 Business Insight Generation
+
 📊 Explainable AI (SHAP)
 
 SHAP (SHapley Additive exPlanations) is used to explain model predictions.
@@ -93,7 +99,8 @@ Employee likely to Stay or Leave
 Attrition Risk Score
 Possible Reasons for Prediction
 
-📊 Key Business Insights
+📊 Key Business Insights:
+
 Employees working overtime show higher attrition risk.
 Low job satisfaction increases resignation probability.
 Poor work-life balance contributes to employee turnover.
